@@ -8,6 +8,7 @@ public class JpaSayingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JpaSayingApplication.class, args);
+
 	}
 
 }
